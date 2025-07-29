@@ -1,4 +1,4 @@
-name: 04-1. Call Reusable Workflow Templates
+name: 04-1. Call Reusable Workflow Template
 
 on:
   push:
